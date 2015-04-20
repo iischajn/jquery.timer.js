@@ -1,0 +1,15 @@
+{
+    "name": "timer",
+    "title": "jQuery timer manage tool",
+    "description": "contorl timer ",
+    "keywords": [
+        "timer",
+        "setTimeout",
+        "setInterval"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "chajn",
+        "url": "https://github.com/iischajn"
+    }
+}
