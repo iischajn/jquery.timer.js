@@ -2,6 +2,7 @@
     "name": "timer",
     "title": "jQuery timer manage tool",
     "description": "contorl timer ",
+    "files": ["jquery.timer.js"],
     "keywords": [
         "timer",
         "setTimeout",
