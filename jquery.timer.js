@@ -6,7 +6,7 @@
 		var num = time || 5;
 		var id = '__countdown'+(++countIndex)+'__';
 		loop(id, 1000, function(){
-			if(num == 1){
+			if(num == 0){
 				end && end();
 				return false;
 			}else{
